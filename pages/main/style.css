@@ -242,6 +242,7 @@ line-height: 160%;
 }
 
 
+
 .btn-right{
     float: left;
     width: 52px;
@@ -275,6 +276,12 @@ line-height: 160%;
     background: #F1CDB3;
     border-width: 0px;
 }
+
+.slider-item:hover .btn-slider{
+    background: #FDDCC4;
+	cursor: pointer;
+}
+
 
 .name-pet{
     font-size: 20px;
