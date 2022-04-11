@@ -161,6 +161,10 @@ color: #545454;
     background: #F1CDB3;
     border-width: 0px;
 }
+.slider-item:hover .btn-slider{
+    background: #FDDCC4;
+	cursor: pointer;
+}
 
 
 
